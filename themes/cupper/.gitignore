@@ -1,2 +1,4 @@
-exampleSite/public/
-resources/
+.DS_Store
+public/
+exampleSite/public
+.github
