@@ -3,11 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/post/africa/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/asia/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/canada/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/europe/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/germany/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/oceania/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/rotw/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/uk/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/us/</loc>
+    <lastmod>2020-03-19T10:29:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/how-to/</loc>
   </url>
   
   <url>
