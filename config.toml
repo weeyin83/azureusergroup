@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 
 title = "Azure Family - Azure User Groups around the world"
-theme = "hugo-theme-learn"
+theme = "cupper"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 publishDir = "docs"

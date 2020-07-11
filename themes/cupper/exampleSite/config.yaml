@@ -1,9 +1,10 @@
 baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
-title: Azure Family - Azure User Groups around the world
-theme: cupper
+title: Cupper
+theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
+disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -16,14 +17,16 @@ imaging:
   quality: 99
 
 params:
-  description: Find your friendly local Azure user group!
-  homeMetaContent: Find your friendly local Azure user group!
-  footer: Built with <i class="fas fa-heart"></i> by [Sarah Lean](https://www.techielass.com), hosted on [Azure](link).
+  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  codePenUser: SarahLean
+  codePenUser: someUser
   katex: true
   darkThemeAsDefault: false
+  hideHeaderLinks: false
+  search: true
   # A list of custom css files can be provided, which must be placed inside
   # 'static/'.
   # This is useful to override just specific css classes, instead of copying
@@ -32,57 +35,24 @@ params:
   # customCss:
   #   - css/foo.css # relative path starting from static/
   #- css/bar.css
-  accent: "blue"
-  showBorder:  true
-  editURL: "https://github.com/weeyin83/AzureFamily/tree/master/docs/"
-  author: "Sarah Lean"
-  showVisitedLinks: false
-  disableBreadcrumb: false
-  disableNextPrev: true
-  themeVariant: "mine"
-  disableLanguageSwitchingButton: true
-  github: "weeyin83" 
-  twitter: "Techielass" # add your twitter profile
-  email: "myemail@myaddress.xxx"
 
 menu:
   nav:
     - name: Home
       url: /
       weight: 1
-    - name: Africa User Groups
-      url: /Africa/
+    - name: Blog
+      url: /post/
       weight: 2
-    - name: Asia User Group
-      url: /Asia/
+    - name: Tags
+      url: /tags/
       weight: 3
-    - name: Canada User Groups
-      url: /Canada/
-      weight: 4
-    - name: Europe User Groups
-      url: /Europe/
-      weight: 5
-    - name: Germany User Groups
-      url: /Germany/
-      weight: 6
-    - name: Oceania User Groups
-      url: /Oceania/
-      weight: 7
-    - name: Rest of the World User Groups
-      url: /ROTW/
-      weight: 8
-    - name: US User Groups
-      url: /US/
-      weight: 9
-    - name: UK User Groups
-      url: /UK/
-      weight: 10
     - name: About
       url: /about/
-      weight: 11
+      weight: 4
     - name: RSS
       url: /index.xml
-      weight: 12
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
