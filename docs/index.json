@@ -1,0 +1,106 @@
+[
+{
+	"uri": "https://example.info/post/africa/",
+	"title": "Africa User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Azure Transform Labs\nAzure User Group - Johannesburg\nCape Town Azure User Group\nMauritius Software Craftsmanship Community\n"
+},
+{
+	"uri": "https://example.info/post/",
+	"title": "Blog",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://example.info/post/asia/",
+	"title": "Asia User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Azure, Office and Data Community (Singapore)\nMicrosoft User Group - Ludhiana\n"
+},
+{
+	"uri": "https://example.info/post/canada/",
+	"title": "Canada User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Calgary Azure Meetup\nAzure Meetup in Ottawa\nThe Azure Group (Azure User Community - Toronto)\nVancouver Azure User Group\n"
+},
+{
+	"uri": "https://example.info/post/europe/",
+	"title": "Europe User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Azure User Group Denmark\nAzure Meetup Milano\nCloudBrew\nMicrosoft Azure User Group Poland\nAZUG\nAzure User Group Norway\nAZUG FR - Azure User Group France\nStockholm Azure Meetup\nSkane Azure User Group\nAzure Thursdays\nGoteborg Azure Study Group\nFinland Azure User Group\nMicrosoft Azure Zurich User Group\nCloudGen Verona\nDutch Microsoft Azure User Group (WAZUG NL)\nDutch Azure Meetup\nAzure Usergroup Portugal\nMeetup Microsoft Azure Torino\nAzure User Group - Prague\n"
+},
+{
+	"uri": "https://example.info/post/germany/",
+	"title": "Germany User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Azure Meetup Berlin\nAzure Meetup Bodensee\nAzure Bonn Meetup\nAzure Meetup Cologne\nAzure Meetup Frankfurt\nAzure Meetup Hamburg\nAzure Munich Meetup\nAzure Meetup Saarbruecken\n"
+},
+{
+	"uri": "https://example.info/post/oceania/",
+	"title": "Oceania User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Auckland Azure User Group\nAzure Sydney User Group\nMelbourne Azure Nights\nPerth Azure User Group\nWellington Azure User Group\n"
+},
+{
+	"uri": "https://example.info/post/rotw/",
+	"title": "Rest of the World User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Azure Meetup Group Reykjavik\nAzure UG Iceland\n"
+},
+{
+	"uri": "https://example.info/post/uk/",
+	"title": "UK User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Azure Birmingham UK\nAzure Oxford\nAzure Thames Valley\nBelfast Azure Meetup\nEdinburgh Azure User Group\nGlasgow Azure User Group\nKent Azure User Group\nLeeds Azure\nLetterkenny Dotnet Azure User Group\nMidlands Azure User Group\nNorth East Azure User Group\nNorthern Azure User Group\nSussex Azure User Group\nUK Cloud Azure User Group\nUK Microsoft Hybrid Cloud User Group\n"
+},
+{
+	"uri": "https://example.info/post/us/",
+	"title": "US User Groups",
+	"tags": [],
+	"description": "",
+	"content": "Azure in the ATL\nBoston Azure\nLas Vegas Azure User Group\nMinneapolis Azure User Group\nMilwaukee Azure\nNortheast Wisconsin Cloud User Group (NEWCUG)\nNorth Boston Azure Cloud User Group\nNRV Azure User Group\nRochester Azure User Group\n"
+},
+{
+	"uri": "https://example.info/",
+	"title": "Azure Family - Find your local user group",
+	"tags": [],
+	"description": "",
+	"content": "Welcome to a listing of the Azure User Groups that are located around the world.\nThis is an open source project, so if you are aware of a group that exists and isn\u0026rsquo;t listed here, please look at contributing to the project and updating the list for others. If you are unsure how to contribute, I\u0026rsquo;ve put together a small how-to guide for you.\nGetting involved with your local user group has a great many benefits, from helping you learn something new from a speaker to making new connections amongst the other attendees. There are a lot of different commnuities out there you can get involved in and this site is intended to help people find and participate in their Azure communities more easily.\n"
+},
+{
+	"uri": "https://example.info/about/",
+	"title": "About",
+	"tags": [],
+	"description": "",
+	"content": "This site was created as a way of helping others find a user group near them. Sarah Lean created the Glasgow Azure User Group after noticing there was only one other user group in the UK focussed on Azure and she wanted to help build the community. This site was created by her in order to help others find their local community and get involved. This hope is this site will become a collaborative source for people trying to find a local user group.\n"
+},
+{
+	"uri": "https://example.info/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://example.info/how-to/",
+	"title": "Contribution",
+	"tags": [],
+	"description": "",
+	"content": "How to contribution guide\n"
+},
+{
+	"uri": "https://example.info/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

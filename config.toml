@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 
 title = "Azure Family - Azure User Groups around the world"
-theme = "cupper"
+theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 publishDir = "docs"
@@ -11,7 +11,7 @@ publishDir = "docs"
 [params]
   #editURL = "https://github.com/azurefamily"
   description = "Azure Family - Azure User Groups around the world"
-  author = "Pixel Robots"
+  author = "Sarah Lean"
   showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = true
