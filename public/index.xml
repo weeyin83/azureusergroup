@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Azure Family - Find your local user group on My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Azure Family - Find your local user group on My New Hugo Site</description>
+    <title>Azure Family - Find your local user group on Azure Family - Azure User Groups around the world</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Azure Family - Find your local user group on Azure Family - Azure User Groups around the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Africa User Groups</title>
-      <link>http://example.org/post/africa/</link>
+      <link>https://example.com/africa/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/africa/</guid>
+      <guid>https://example.com/africa/</guid>
       <description>Azure Transform Labs
 Azure User Group - Johannesburg
 Cape Town Azure User Group
@@ -25,20 +25,20 @@ Mauritius Software Craftsmanship Community</description>
     
     <item>
       <title>Asia User Groups</title>
-      <link>http://example.org/post/asia/</link>
+      <link>https://example.com/asia/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/asia/</guid>
+      <guid>https://example.com/asia/</guid>
       <description>Azure, Office and Data Community (Singapore)
 Microsoft User Group - Ludhiana</description>
     </item>
     
     <item>
       <title>Canada User Groups</title>
-      <link>http://example.org/post/canada/</link>
+      <link>https://example.com/canada/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/canada/</guid>
+      <guid>https://example.com/canada/</guid>
       <description>Calgary Azure Meetup
 Azure Meetup in Ottawa
 The Azure Group (Azure User Community - Toronto)
@@ -47,10 +47,10 @@ Vancouver Azure User Group</description>
     
     <item>
       <title>Europe User Groups</title>
-      <link>http://example.org/post/europe/</link>
+      <link>https://example.com/europe/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/europe/</guid>
+      <guid>https://example.com/europe/</guid>
       <description>Azure User Group Denmark
 Azure Meetup Milano
 CloudBrew
@@ -74,10 +74,10 @@ Azure User Group - Prague</description>
     
     <item>
       <title>Germany User Groups</title>
-      <link>http://example.org/post/germany/</link>
+      <link>https://example.com/germany/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/germany/</guid>
+      <guid>https://example.com/germany/</guid>
       <description>Azure Meetup Berlin
 Azure Meetup Bodensee
 Azure Bonn Meetup
@@ -90,10 +90,10 @@ Azure Meetup Saarbruecken</description>
     
     <item>
       <title>Oceania User Groups</title>
-      <link>http://example.org/post/oceania/</link>
+      <link>https://example.com/oceania/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/oceania/</guid>
+      <guid>https://example.com/oceania/</guid>
       <description>Auckland Azure User Group
 Azure Sydney User Group
 Melbourne Azure Nights
@@ -103,20 +103,20 @@ Wellington Azure User Group</description>
     
     <item>
       <title>Rest of the World User Groups</title>
-      <link>http://example.org/post/rotw/</link>
+      <link>https://example.com/rotw/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/rotw/</guid>
+      <guid>https://example.com/rotw/</guid>
       <description>Azure Meetup Group Reykjavik
 Azure UG Iceland</description>
     </item>
     
     <item>
       <title>UK User Groups</title>
-      <link>http://example.org/post/uk/</link>
+      <link>https://example.com/uk/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/uk/</guid>
+      <guid>https://example.com/uk/</guid>
       <description>Azure Birmingham UK
 Azure Oxford
 Azure Thames Valley
@@ -136,10 +136,10 @@ UK Microsoft Hybrid Cloud User Group</description>
     
     <item>
       <title>US User Groups</title>
-      <link>http://example.org/post/us/</link>
+      <link>https://example.com/us/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>http://example.org/post/us/</guid>
+      <guid>https://example.com/us/</guid>
       <description>Azure in the ATL
 Boston Azure
 Las Vegas Azure User Group
@@ -153,19 +153,19 @@ Rochester Azure User Group</description>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://example.com/about/</guid>
       <description>This site was created as a way of helping others find a user group near them. Sarah Lean created the Glasgow Azure User Group after noticing there was only one other user group in the UK focussed on Azure and she wanted to help build the community. This site was created by her in order to help others find their local community and get involved. This hope is this site will become a collaborative source for people trying to find a local user group.</description>
     </item>
     
     <item>
       <title>Contribution</title>
-      <link>http://example.org/how-to/</link>
+      <link>https://example.com/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/how-to/</guid>
+      <guid>https://example.com/how-to/</guid>
       <description>How to contribution guide</description>
     </item>
     
