@@ -1,0 +1,29 @@
+baseURL = "https://example.info"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Azure Family - Azure User Groups around the world"
+theme = "cupper"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+publishDir = "docs"
+
+[params]
+  #editURL = "https://github.com/azurefamily"
+  description = "Azure Family - Azure User Groups around the world"
+  author = "Pixel Robots"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = true
+  themeVariant = "mine"
+  disableLanguageSwitchingButton = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Azure Family - Azure User Groups around the world"
+weight = 1
+languageName = "English"
+
