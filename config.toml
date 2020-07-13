@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir= true
 publishDir = "docs"
 
 [params]
-  #editURL = "https://github.com/azurefamily"
+  editURL = "https://github.com/weeyin83/azureusergroup"
   description = "Azure Family - Azure User Groups around the world"
   author = "Sarah Lean"
   showVisitedLinks = false
