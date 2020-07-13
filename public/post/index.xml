@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Azure Family - Azure User Groups around the world</title>
-    <link>https://example.com/post/</link>
+    <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/</link>
     <description>Recent content in Blog on Azure Family - Azure User Groups around the world</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ambitious-river-054aa4203.azurestaticapps.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Africa User Groups</title>
-      <link>https://example.com/africa/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/africa/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/africa/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/africa/</guid>
       <description>Azure Transform Labs
 Azure User Group - Johannesburg
 Cape Town Azure User Group
@@ -24,20 +25,20 @@ Mauritius Software Craftsmanship Community</description>
     
     <item>
       <title>Asia User Groups</title>
-      <link>https://example.com/asia/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/asia/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/asia/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/asia/</guid>
       <description>Azure, Office and Data Community (Singapore)
 Microsoft User Group - Ludhiana</description>
     </item>
     
     <item>
       <title>Canada User Groups</title>
-      <link>https://example.com/canada/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/canada/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/canada/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/canada/</guid>
       <description>Calgary Azure Meetup
 Azure Meetup in Ottawa
 The Azure Group (Azure User Community - Toronto)
@@ -46,10 +47,10 @@ Vancouver Azure User Group</description>
     
     <item>
       <title>Europe User Groups</title>
-      <link>https://example.com/europe/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/europe/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/europe/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/europe/</guid>
       <description>Azure User Group Denmark
 Azure Meetup Milano
 CloudBrew
@@ -73,10 +74,10 @@ Azure User Group - Prague</description>
     
     <item>
       <title>Germany User Groups</title>
-      <link>https://example.com/germany/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/germany/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/germany/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/germany/</guid>
       <description>Azure Meetup Berlin
 Azure Meetup Bodensee
 Azure Bonn Meetup
@@ -89,10 +90,10 @@ Azure Meetup Saarbruecken</description>
     
     <item>
       <title>Oceania User Groups</title>
-      <link>https://example.com/oceania/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/oceania/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/oceania/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/oceania/</guid>
       <description>Auckland Azure User Group
 Azure Sydney User Group
 Melbourne Azure Nights
@@ -102,20 +103,20 @@ Wellington Azure User Group</description>
     
     <item>
       <title>Rest of the World User Groups</title>
-      <link>https://example.com/rotw/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/rotw/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/rotw/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/rotw/</guid>
       <description>Azure Meetup Group Reykjavik
 Azure UG Iceland</description>
     </item>
     
     <item>
       <title>UK User Groups</title>
-      <link>https://example.com/uk/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/uk/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/uk/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/uk/</guid>
       <description>Azure Birmingham UK
 Azure Oxford
 Azure Thames Valley
@@ -135,10 +136,10 @@ UK Microsoft Hybrid Cloud User Group</description>
     
     <item>
       <title>US User Groups</title>
-      <link>https://example.com/us/</link>
+      <link>https://ambitious-river-054aa4203.azurestaticapps.net/post/us/</link>
       <pubDate>Thu, 19 Mar 2020 10:29:49 +0000</pubDate>
       
-      <guid>https://example.com/us/</guid>
+      <guid>https://ambitious-river-054aa4203.azurestaticapps.net/post/us/</guid>
       <description>Azure in the ATL
 Boston Azure
 Las Vegas Azure User Group
