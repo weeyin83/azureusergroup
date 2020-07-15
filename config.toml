@@ -29,7 +29,6 @@ languageName = "English"
 
  [menu] 
    [[menu.nav]] 
-
     name = "Home"
     title = "Home"
     url = "/"
