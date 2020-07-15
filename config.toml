@@ -27,3 +27,76 @@ title = "Azure Family - Azure User Groups around the world"
 weight = 1
 languageName = "English"
 
+ [menu] 
+   [[menu.nav]] 
+
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.nav]] 
+    name = "Africa User User Groups"
+    title = "Africa User Groups"
+    url = "/post/Africa/"
+    weight = 2
+
+  [[menu.nav]] 
+    name = "Asia User Groups"
+    title = "Asia User Groups"
+    url = "/post/Asia/"
+    weight = 3
+
+  [[menu.nav]] 
+    name = "Canada User Groups"
+    title = "Canada User Groups"
+    url = "/post/Canada/"
+    weight = 4
+
+  [[menu.nav]] 
+    name = "Europe User Groups"
+    title = "Europe User Groups"
+    url = "/post/Europe/"
+    weight = 5
+
+  [[menu.nav]] 
+    name = "Germany User Groups"
+    title = "Germany User Groups"
+    url = "/post/Germany/"
+    weight = 6
+
+  [[menu.nav]] 
+    name = "Oceania User Groups"
+    title = "Oceania User Groups"
+    url = "/post/Oceania/"
+    weight = 7
+
+  [[menu.nav]] 
+    name = "Rest of the World User Groups"
+    title = "Rest of the World User Groups"
+    url = "/post/rotw/"
+    weight = 8
+
+  [[menu.nav]] 
+    name = "US User Groups"
+    title = "US User Groups"
+    url = "/post/US/"
+    weight = 9
+
+  [[menu.nav]] 
+    name = "UK User Groups"
+    title = "UK User Groups"
+    url = "/post/UK/"
+    weight = 10
+
+  [[menu.nav]] 
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 11
+
+  [[menu.nav]] 
+    name = "RSS"
+    title = "RSS"
+    url = "/index.xml"
+    weight = 12
