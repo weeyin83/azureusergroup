@@ -95,7 +95,13 @@ languageName = "English"
     weight = 11
 
   [[menu.nav]] 
+    name = "Contribute"
+    title = "Contribute"
+    url = "/how-to"
+    weight = 12
+
+  [[menu.nav]] 
     name = "RSS"
     title = "RSS"
     url = "/index.xml"
-    weight = 12
+    weight = 13
