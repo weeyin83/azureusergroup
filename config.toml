@@ -35,7 +35,7 @@ languageName = "English"
     weight = 1
 
   [[menu.nav]] 
-    name = "Africa User User Groups"
+    name = "Africa User Groups"
     title = "Africa User Groups"
     url = "/post/Africa/"
     weight = 2
