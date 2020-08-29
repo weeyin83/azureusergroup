@@ -71,7 +71,7 @@ languageName = "English"
     weight = 7
 
   [[menu.nav]] 
-    name = "Rest of the World User Groups"
+    name = "RofW User Groups"
     title = "Rest of the World User Groups"
     url = "/post/rotw/"
     weight = 8

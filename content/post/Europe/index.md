@@ -40,3 +40,9 @@ date: 2020-03-19T10:29:49Z
 [Meetup Microsoft Azure Torino](https://www.meetup.com/Meetup-Microsoft-Azure-Torino/)
 
 [Azure User Group - Prague](https://www.meetup.com/Azure-User-Group/)
+
+[Letterkenny Dotnet Azure User Group](https://www.meetup.com/lk-mug)
+
+[Cloudee Lounge](https://www.meetup.com/cloudeelounge)
+
+[Microsoft .NET User Group Odesa](http://www.usergroup.od.ua/)

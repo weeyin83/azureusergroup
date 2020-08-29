@@ -19,5 +19,6 @@ date: 2020-03-19T10:29:49Z
 
 [Azure Meetup Saarbruecken](https://www.meetup.com/de-DE/Lets-Talk-Azure/)
 
+[Microsoft Cloud & Business Applications Meetup](http://mscba-meetup.de)
 
-
+[Microsoft Technology Stack Meetup](http://msts-meetup.de/)
