@@ -168,7 +168,9 @@ This site was created by her in order to help others find their local community 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ambitious-river-054aa4203.azurestaticapps.net/how-to/</guid>
-      <description>How to contribution guide</description>
+      <description>How to contribution guide
+This is a collaborative list of Azure user groups that are setup around the world. If you know of an Azure user group that isn&amp;rsquo;t listed on this website, you can help to contribute to it in one of two days.
+Create an Issue Head over to the GitHub Issues page and create a new issue with details of the user group or details correcting an existing user group which is on the list.</description>
     </item>
     
   </channel>
