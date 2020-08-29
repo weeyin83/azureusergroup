@@ -2,47 +2,47 @@
 title: "Europe User Groups"
 date: 2020-03-19T10:29:49Z
 ---
-
-[Azure User Group Denmark](https://www.meetup.com/Azure-Usergroup-Denmark/)
-
-[Azure Meetup Milano](https://www.meetup.com/Azure-Meetup-Milano/)
-
-[CloudBrew](https://cloudbrew.be/)
-
-[Microsoft Azure User Group Poland](https://www.meetup.com/Microsoft-Azure-Users-Group-Poland/)
+[AZUG FR - Azure User Group France](https://www.meetup.com/fr-FR/AZUG-FR/)
 
 [AZUG](https://www.azug.be/)
 
-[Azure User Group Norway](https://www.meetup.com/Azure-User-Group-Norway/)
+[Azure Meetup Milano](https://www.meetup.com/Azure-Meetup-Milano/)
 
-[AZUG FR - Azure User Group France](https://www.meetup.com/fr-FR/AZUG-FR/)
+[Azure Thursdays](https://www.meetup.com/nl-NL/Azure-Thursdays/)
 
-[Stockholm Azure Meetup](https://www.meetup.com/Stockholm-Azure-Meetup/)
+[Azure User Group - Prague](https://www.meetup.com/Azure-User-Group/)
 
-[Skane Azure User Group](https://www.meetup.com/Azure-Skane/)
+[Azure User Group Denmark](https://www.meetup.com/Azure-Usergroup-Denmark/)
 
-[Azure Thursdays](https://www.meetup.com/nl-NL/Azure-Thursdays/)
+[Azure User Group Norway](https://www.meetup.com/Azure-User-Group-Norway/)
 
-[Goteborg Azure Study Group](https://www.meetup.com/Goteborg-Azure-Study-Group/)
+[Azure Usergroup Portugal](https://www.meetup.com/Azure-User-Group-Portugal/)
 
-[Finland Azure User Group](https://www.meetup.com/Finland-Azure-User-Group/)
+[CloudBrew](https://cloudbrew.be/)
 
-[Microsoft Azure Zurich User Group](https://www.meetup.com/Microsoft-Azure-Zurich-User-Group/)
+[Cloudee Lounge](https://www.meetup.com/cloudeelounge)
 
-[CloudGen Verona](https://www.eventbrite.it/o/cloudgen-verona-14493699643)
+[CloudGen Verona](https://www.eventbrite.it/o/cloudgen-verona-14493699643)
 
-[Dutch Microsoft Azure User Group (WAZUG NL)](https://www.wazug.nl/)
+[Dutch Azure Meetup](https://www.meetup.com/Dutch-Azure-Meetup/)
 
-[Dutch Azure Meetup](https://www.meetup.com/Dutch-Azure-Meetup/)
+[Dutch Microsoft Azure User Group (WAZUG NL)](https://www.wazug.nl/)
 
-[Azure Usergroup Portugal](https://www.meetup.com/Azure-User-Group-Portugal/)
+[Finland Azure User Group](https://www.meetup.com/Finland-Azure-User-Group/)
 
-[Meetup Microsoft Azure Torino](https://www.meetup.com/Meetup-Microsoft-Azure-Torino/)
+[Goteborg Azure Study Group](https://www.meetup.com/Goteborg-Azure-Study-Group/)
 
-[Azure User Group - Prague](https://www.meetup.com/Azure-User-Group/)
+[Letterkenny Dotnet Azure User Group](https://www.meetup.com/lk-mug)
 
-[Letterkenny Dotnet Azure User Group](https://www.meetup.com/lk-mug)
+[Meetup Microsoft Azure Torino](https://www.meetup.com/Meetup-Microsoft-Azure-Torino/)
 
-[Cloudee Lounge](https://www.meetup.com/cloudeelounge)
+[Microsoft .NET User Group Odesa](http://www.usergroup.od.ua/)
 
-[Microsoft .NET User Group Odesa](http://www.usergroup.od.ua/)
+[Microsoft Azure User Group Poland](https://www.meetup.com/Microsoft-Azure-Users-Group-Poland/)
+
+[Microsoft Azure Zurich User Group](https://www.meetup.com/Microsoft-Azure-Zurich-User-Group/)
+
+[Skane Azure User Group](https://www.meetup.com/Azure-Skane/)
+
+[Stockholm Azure Meetup](https://www.meetup.com/Stockholm-Azure-Meetup/)
+
