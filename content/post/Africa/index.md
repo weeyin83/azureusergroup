@@ -1,6 +1,6 @@
 ---
 title: "Africa User Groups"
-date: 2020-05-06
+date: 2020-08-29
 ---
 
 [Azure Center User Group](https://www.meetup.com/en-AU/Azure-Center)

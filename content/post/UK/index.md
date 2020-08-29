@@ -1,6 +1,6 @@
 ---
 title: "UK User Groups"
-date: 2020-03-19T10:29:49Z
+date: 2020-08-29
 ---
 
 [Azure Birmingham UK](https://www.meetup.com/MicrosoftDataPlatformBirmingham/)
@@ -18,8 +18,6 @@ date: 2020-03-19T10:29:49Z
 [Kent Azure User Group](https://www.meetup.com/azurekent/)
 
 [Leeds Azure](https://www.meetup.com/dataleeds/)
-
-[Letterkenny Dotnet Azure User Group](https://www.meetup.com/lk-mug/)
 
 [Midlands Azure User Group](https://www.meetup.com/Midlands-Azure-User-Group/)
 

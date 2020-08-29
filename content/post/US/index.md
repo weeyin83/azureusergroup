@@ -1,6 +1,6 @@
 ---
 title: "US User Groups"
-date: 2020-03-19T10:29:49Z
+date: 2020-08-29
 ---
 
 [Azure in the ATL](https://www.meetup.com/Azure-in-the-ATL/)
