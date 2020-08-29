@@ -20,7 +20,7 @@ Once the pull request has been checked over and everything is okay it will be ma
 
 ## New Country/Region Page
 
-If you think another page should be created please feel free to create it under /content/post and then create an index.md file. 
+If you think another page should be created for a country or a region please feel free to create it under /content/post and then create an index.md file. 
 
 The config.toml file at the root of the source code should also be modified to update the navigation menu. 
 
