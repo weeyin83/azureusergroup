@@ -21,7 +21,7 @@ date: 2020-08-29
 
 [Midlands Azure User Group](https://www.meetup.com/Midlands-Azure-User-Group/)
 
-[North East Azure User Group](http://northeastazureusergroup.co.uk/)
+[North East Azure User Group](https://www.meetup.com/North-East-Azure-User-Group//)
 
 [Northern Azure User Group](https://www.meetup.com/Northern-Azure-User-Group/)
 
