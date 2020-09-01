@@ -6,3 +6,4 @@ This site was created as a way of helping others find a user group near them. [S
 
 This site was created by her in order to help others find their local community and get involved.  This hope is this site will become a collaborative source for people trying to find a local user group. 
 
+The site logo is from [People Logo Vectors by Vecteezy](https://www.vecteezy.com/free-vector/people-logo). 
