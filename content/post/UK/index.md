@@ -31,4 +31,5 @@ date: 2020-08-29
 
 [UK Microsoft Hybrid Cloud User Group](https://www.meetup.com/Azure-Stack-UK-User-Group)
 
+[Welsh Azure User Group](https://www.meetup.com/MSFT-Stack/)
 
