@@ -9,6 +9,8 @@ date: 2020-08-29
 
 [Las Vegas Azure User Group](https://www.meetup.com/Las-Vegas-Azure-User-Group/)
 
+[Michigan Azure and M365 User Gruop](https://maz365usergroup.github.io/)
+
 [Minneapolis Azure User Group](https://www.meetup.com/Minneapolis-Azure-Cloud-Computing-Meetup)
 
 [Milwaukee Azure](https://www.meetup.com/Milwaukee-Azure-Meetup/)
