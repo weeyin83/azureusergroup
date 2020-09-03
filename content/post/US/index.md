@@ -21,5 +21,7 @@ date: 2020-08-29
 
 [NRV Azure User Group](https://www.meetup.com/NRV-Azure-Users-Group/)
 
+[Omaha Azure User Group](https://omahaaug.com/)
+
 [Rochester Azure User Group](https://www.meetup.com/Rochester-Azure-Users-Group/)
 
