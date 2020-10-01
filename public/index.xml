@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Family - Find your local user group on Azure Family - Azure User Groups around the world</title>
-    <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Azure Family - Find your local user group on Azure Family - Azure User Groups around the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
     
-	<atom:link href="https://salmon-cliff-0e48c9803.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>US User Groups</title>
+      <link>http://localhost:1313/post/us/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/us/</guid>
+      <description>Azure in the ATL
+Boston Azure
+Central Ohio Azure (CoAzure)
+Las Vegas Azure User Group
+Michigan Azure and M365 User Gruop
+Minneapolis Azure User Group
+Milwaukee Azure
+Northeast Wisconsin Cloud User Group (NEWCUG)
+North Boston Azure Cloud User Group
+NRV Azure User Group
+Omaha Azure User Group
+Rochester Azure User Group</description>
+    </item>
+    
+    <item>
       <title>Africa User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/africa/</link>
+      <link>http://localhost:1313/post/africa/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/africa/</guid>
+      <guid>http://localhost:1313/post/africa/</guid>
       <description>Azure Center User Group
 Azure Transform Labs
 Azure User Group - Johannesburg
@@ -26,10 +46,10 @@ Mauritius Software Craftsmanship Community</description>
     
     <item>
       <title>Asia User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/asia/</link>
+      <link>http://localhost:1313/post/asia/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/asia/</guid>
+      <guid>http://localhost:1313/post/asia/</guid>
       <description>Azure, Office and Data Community (Singapore)
 Microsoft User Group - Ludhiana
 Nepal Cloud Professionals</description>
@@ -37,10 +57,10 @@ Nepal Cloud Professionals</description>
     
     <item>
       <title>Canada User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/canada/</link>
+      <link>http://localhost:1313/post/canada/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/canada/</guid>
+      <guid>http://localhost:1313/post/canada/</guid>
       <description>Calgary Azure Meetup
 Azure Meetup in Ottawa
 Azure @ MSDEVMTL
@@ -50,10 +70,10 @@ Vancouver Azure User Group</description>
     
     <item>
       <title>Europe User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/europe/</link>
+      <link>http://localhost:1313/post/europe/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/europe/</guid>
+      <guid>http://localhost:1313/post/europe/</guid>
       <description>AZUG FR - Azure User Group France
 AZUG
 Azure Meetup Milano
@@ -77,10 +97,10 @@ Microsoft Azure User Group Poland</description>
     
     <item>
       <title>Germany User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/germany/</link>
+      <link>http://localhost:1313/post/germany/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/germany/</guid>
+      <guid>http://localhost:1313/post/germany/</guid>
       <description>Azure Meetup Berlin
 Azure Meetup Bodensee
 Azure Bonn Meetup
@@ -95,10 +115,10 @@ Microsoft Technology Stack Meetup</description>
     
     <item>
       <title>Oceania User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/oceania/</link>
+      <link>http://localhost:1313/post/oceania/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/oceania/</guid>
+      <guid>http://localhost:1313/post/oceania/</guid>
       <description>Auckland Azure User Group
 Azure Sydney User Group
 Melbourne Azure Nights
@@ -108,20 +128,20 @@ Wellington Azure User Group</description>
     
     <item>
       <title>Rest of the World User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/rotw/</link>
+      <link>http://localhost:1313/post/rotw/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/rotw/</guid>
+      <guid>http://localhost:1313/post/rotw/</guid>
       <description>Azure Meetup Group Reykjavik
 Azure UG Iceland</description>
     </item>
     
     <item>
       <title>UK User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/uk/</link>
+      <link>http://localhost:1313/post/uk/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/uk/</guid>
+      <guid>http://localhost:1313/post/uk/</guid>
       <description>Azure Birmingham UK
 Azure Oxford
 Azure Thames Valley
@@ -140,40 +160,21 @@ Welsh Azure User Group</description>
     </item>
     
     <item>
-      <title>US User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/us/</link>
-      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/us/</guid>
-      <description>Azure in the ATL
-Boston Azure
-Las Vegas Azure User Group
-Michigan Azure and M365 User Gruop
-Minneapolis Azure User Group
-Milwaukee Azure
-Northeast Wisconsin Cloud User Group (NEWCUG)
-North Boston Azure Cloud User Group
-NRV Azure User Group
-Omaha Azure User Group
-Rochester Azure User Group</description>
-    </item>
-    
-    <item>
       <title>About</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>This site was created as a way of helping others find a user group near them. Sarah Lean created the Glasgow Azure User Group after noticing there was only one other user group in the UK focussed on Azure and she wanted to help build the community.
 This site was created by her in order to help others find their local community and get involved. This hope is this site will become a collaborative source for people trying to find a local user group.</description>
     </item>
     
     <item>
       <title>Contribution</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/how-to/</link>
+      <link>http://localhost:1313/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/how-to/</guid>
+      <guid>http://localhost:1313/how-to/</guid>
       <description>How to contribution guide
 This is a collaborative list of Azure user groups that are setup around the world. If you know of an Azure user group that isn&amp;rsquo;t listed on this website, you can help to contribute to it in one of two days.
 Create an Issue Head over to the GitHub Issues page and create a new issue with details of the user group or details correcting an existing user group which is on the list.</description>
