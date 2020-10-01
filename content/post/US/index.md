@@ -7,6 +7,8 @@ date: 2020-08-29
 
 [Boston Azure](https://www.meetup.com/bostonazure/)
 
+[Central Ohio Azure (CoAzure)](https://www.meetup.com/Central-Ohio-Azure/)
+
 [Las Vegas Azure User Group](https://www.meetup.com/Las-Vegas-Azure-User-Group/)
 
 [Michigan Azure and M365 User Gruop](https://maz365usergroup.github.io/)
