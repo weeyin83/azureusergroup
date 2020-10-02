@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/us/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/africa/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/asia/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +49,6 @@
   
   <url>
     <loc>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/uk/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/us/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url>
   
