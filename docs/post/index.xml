@@ -6,10 +6,37 @@
     <description>Recent content in Blog on Azure Family - Azure User Groups around the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://salmon-cliff-0e48c9803.azurestaticapps.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Europe User Groups</title>
+      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/europe/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/europe/</guid>
+      <description>AZUG FR - Azure User Group France
+AZUG
+Azure Meetup Milano
+Azure Thursdays
+Azure User Group - Prague
+Azure User Group Denmark
+Azure User Group Norway
+Azure Usergroup Portugal
+CloudBrew
+Cloudee Lounge
+CloudGen Verona
+Dutch Azure Meetup
+Dutch Microsoft Azure User Group (WAZUG NL)
+Finland Azure User Group
+Goteborg Azure Study Group
+Letterkenny Dotnet Azure User Group
+Meetup Microsoft Azure Torino
+Microsoft .NET User Group Odesa
+Microsoft Azure User Group Poland</description>
+    </item>
     
     <item>
       <title>US User Groups</title>
@@ -66,33 +93,6 @@ Azure Meetup in Ottawa
 Azure @ MSDEVMTL
 The Azure Group (Azure User Community - Toronto)
 Vancouver Azure User Group</description>
-    </item>
-    
-    <item>
-      <title>Europe User Groups</title>
-      <link>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/europe/</link>
-      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://salmon-cliff-0e48c9803.azurestaticapps.net/post/europe/</guid>
-      <description>AZUG FR - Azure User Group France
-AZUG
-Azure Meetup Milano
-Azure Thursdays
-Azure User Group - Prague
-Azure User Group Denmark
-Azure User Group Norway
-Azure Usergroup Portugal
-CloudBrew
-Cloudee Lounge
-CloudGen Verona
-Dutch Azure Meetup
-Dutch Microsoft Azure User Group (WAZUG NL)
-Finland Azure User Group
-Goteborg Azure Study Group
-Letterkenny Dotnet Azure User Group
-Meetup Microsoft Azure Torino
-Microsoft .NET User Group Odesa
-Microsoft Azure User Group Poland</description>
     </item>
     
     <item>

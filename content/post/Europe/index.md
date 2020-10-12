@@ -1,6 +1,6 @@
 ---
 title: "Europe User Groups"
-date: 2020-08-29
+date: 2020-10-12
 ---
 [AZUG FR - Azure User Group France](https://www.meetup.com/fr-FR/AZUG-FR/)
 
@@ -41,6 +41,8 @@ date: 2020-08-29
 [Microsoft Azure User Group Poland](https://www.meetup.com/Microsoft-Azure-Users-Group-Poland/)
 
 [Microsoft Azure Zurich User Group](https://www.meetup.com/Microsoft-Azure-Zurich-User-Group/)
+
+[Microsoft Cloud and Client Management Community (MC2MC)](https://www.mc2mc.be/events/)
 
 [Skane Azure User Group](https://www.meetup.com/Azure-Skane/)
 
