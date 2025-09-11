@@ -1,0 +1,63 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Hugo / static site build outputs
+public/
+resources/
+.hugo_build/
+hugo_stats.json
+.cache/
+
+# Theme example sites / generated outputs
+themes/*/exampleSite/public/
+themes/*/resources/
+
+# Build / distribution
+dist/
+build/
+out/
+tmp/
+*.tsbuildinfo
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.user
+*.userosscache
+
+# Python / virtualenv
+venv/
+.envrc
+__pycache__/
+
+# Terraform
+.terraform/
+
+# Misc
+coverage/
+*.bak
+*.tmp

@@ -1,15 +1,10 @@
 ---
 title: "UK User Groups"
-date: 2020-08-29
+date: 2025-09-11
 ---
 
-[Azure Birmingham UK](https://www.meetup.com/MicrosoftDataPlatformBirmingham/)
 
 [Azure Oxford](https://www.meetup.com/Azure-Oxford/)
-
-[Azure Thames Valley](https://www.meetup.com/Azure-Thames-Valley/)
-
-[Belfast Azure Meetup](https://www.meetup.com/Belfast-Azure-Meetup/)
 
 [Edinburgh Azure User Group](https://www.meetup.com/Edinburgh-Azure-User-Group/)
 
@@ -17,19 +12,16 @@ date: 2020-08-29
 
 [Kent Azure User Group](https://www.meetup.com/azurekent/)
 
-[Leeds Azure](https://www.meetup.com/dataleeds/)
+[Leeds Data Platform & Cloud](https://www.meetup.com/dataleeds/)
 
 [Midlands Azure User Group](https://www.meetup.com/Midlands-Azure-User-Group/)
 
-[North East Azure User Group](https://www.meetup.com/North-East-Azure-User-Group//)
+[North East Azure User Group](https://www.meetup.com/North-East-Azure-User-Group/)
 
 [Northern Azure User Group](https://www.meetup.com/Northern-Azure-User-Group/)
 
-[Sussex Azure User Group](https://sussexazure.uk/)
+[Sussex Azure User Group](https://www.meetup.com/Sussex-Azure-User-Group/)
 
 [UK Cloud Azure User Group](https://www.meetup.com/UKAzureUserGroup/)
 
-[UK Microsoft Hybrid Cloud User Group](https://www.meetup.com/Azure-Stack-UK-User-Group)
-
 [Welsh Azure User Group](https://www.meetup.com/MSFT-Stack/)
-
